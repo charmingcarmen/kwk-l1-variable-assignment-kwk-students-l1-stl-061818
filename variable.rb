@@ -10,4 +10,4 @@
 name= "carmen" 
 last_name ="bradley" 
 age = 15
-puts "my name is " #{name} # {last_name} and i am  #{age}
+puts "my name is  #{name} # {last_name} and i am  #{age}"
