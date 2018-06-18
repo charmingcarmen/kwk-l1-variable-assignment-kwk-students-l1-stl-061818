@@ -11,3 +11,5 @@ name= "carmen"
 last_name ="bradley" 
 age = 15
 puts "my name is  #{name} #{last_name} and i am  #{age}"
+puts "my #{dog} loves the #{place} and if from #{place_of_birth}
+puts "hey, whats up "
